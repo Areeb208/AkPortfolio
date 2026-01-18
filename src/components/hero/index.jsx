@@ -1,11 +1,11 @@
 import style from "./index.module.css";
-import AreebImage from "../../assests/images/Areeb.png";
-import HtmlIcon from "../../assests/icons/html.svg?react";
-import CssIcon from "../../assests/icons/css.svg?react";
-import JsIcon from "../../assests/icons/js.svg?react";
-import ReactIcon from "../../assests/icons/react.svg?react";
-import GithubIcon from "../../assests/icons/github.svg?react";
-import LinkedinIcon from "../../assests/icons/linked.svg?react";
+import AreebImage from "../../assets/images/Areeb.png";
+import HtmlIcon from "../../assets/icons/html.svg?react";
+import CssIcon from "../../assets/icons/css.svg?react";
+import JsIcon from "../../assets/icons/js.svg?react";
+import ReactIcon from "../../assets/icons/react.svg?react";
+import GithubIcon from "../../assets/icons/github.svg?react";
+import LinkedinIcon from "../../assets/icons/linked.svg?react";
 
 const location = "Pakistan / Karachi";
 const age = "18";
