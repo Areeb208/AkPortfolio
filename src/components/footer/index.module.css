@@ -1,0 +1,23 @@
+.footer {
+  width: 40%;
+  margin-top: 6rem;
+  padding: 1.4rem 0;
+  background: var(--card-bg);
+  border-top: 1px solid rgba(255, 255, 255, 0.08);
+  border-radius: 9999px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  user-select: none;
+}
+
+.footer p {
+  font-size: 0.95rem;
+  color: var(--accent);
+  margin: 0;
+}
+
+.footer span {
+  color: var(--text-main);
+  font-weight: 600;
+}
