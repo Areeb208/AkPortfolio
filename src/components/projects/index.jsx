@@ -1,8 +1,8 @@
 import styles from "./index.module.css";
 
-import avocadoImg from "../../assets/proj-img/Avacado.PNG";
-import electromartImg from "../../assets/proj-img/Electro.PNG";
-import shadowlineImg from "../../assets/proj-img/ShadowLine.PNG";
+import avocadoImg from "../../assets/proj-img/Avacado.png";
+import electromartImg from "../../assets/proj-img/Electro.png";
+import shadowlineImg from "../../assets/proj-img/ShadowLine.png";
 
 const projects = [
   {
