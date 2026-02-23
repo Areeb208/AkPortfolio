@@ -3,8 +3,17 @@ import styles from "./index.module.css";
 import avocadoImg from "../../assets/proj-img/Avacado.png";
 import electromartImg from "../../assets/proj-img/Electro.PNG";
 import shadowlineImg from "../../assets/proj-img/ShadowLine.PNG";
+import GymAppImg from "../../assets/proj-img/Gym-App.PNG";
 
 const projects = [
+    {
+    title: "Gym App",
+    image: GymAppImg,
+    description: "A web-based gym management system that enables administrators to efficiently track members, subscriptions, and financial records.",
+    tech: ["React", "Node.js", "MongoDB"],
+    github: "https://github.com/Areeb208/Gym-App",
+    live: "https://sirgym.netlify.app/",
+  },
   {
     title: "ShadowLine",
     image: shadowlineImg,
